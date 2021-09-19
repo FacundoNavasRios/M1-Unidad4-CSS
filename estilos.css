@@ -1,0 +1,79 @@
+#Nombre{
+    color: black;
+    font-size: 40px;
+    width: 440px; /*ancho*/
+    height: 40px; /*alto*/
+    background-color: rgb(17, 235, 243);
+    text-align: center;
+    margin-left: 470px;
+    margin-bottom: 25px;
+    padding-bottom: 5px;
+}
+
+.Foto{
+    margin-left: 540px;
+}
+
+h4{
+    color: rgb(160, 63, 63);
+    font-size: 20px;
+    text-align: center;
+}
+
+span{
+    color: rgb(8, 5, 165);
+}
+
+ul{
+    color: rgb(97, 42, 6);
+    font-size: 17px;
+}
+
+ol{
+    color: rgb(26, 22, 15);
+    font-size: 17px;
+}
+
+.Parrafos{
+    color: rgba(2, 77, 12, 0.829);
+    font-size: 17px;
+}
+
+.Formulario{
+    color: rgb(105, 14, 1);
+    background-color: chartreuse;
+    font-size: 15px;
+    text-align: center;
+    width: 350px;
+    margin-left: 500px;
+    cursor: pointer;
+}
+
+.Formulario:hover{
+    background-color: darkgray;
+}
+
+#Series{
+    width: 250px; /*ancho*/
+    height: 60px; /*alto*/
+    margin-left: 540px;
+    background-color: rgb(21, 164, 221);
+}
+
+#Peliculas{
+    width: 250px; /*ancho*/
+    height: 80px; /*alto*/
+    margin-left: 540px;
+    background-color: rgb(91, 157, 231);
+}
+#Parrafos{
+    width: 300px; /*ancho*/
+    height: 200px; /*alto*/
+    margin-left: 520px;
+    padding-left: 3px;
+    background-color: rgb(238, 235, 44);
+    cursor: pointer;
+}
+#Parrafos:hover{
+    background-color: darkgray;
+}
